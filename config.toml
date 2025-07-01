@@ -1,0 +1,24 @@
+[github]
+owner="Cloumy074"
+repository="blog-friend-links-data-generator"
+
+[generation]
+label="verified"
+sort_by_updated_time=true
+
+[[groups]]
+name="Partner (Pinned)"
+description="Special place for special person."
+label="ta"
+[[groups]]
+name="GitHub"
+description="Friends from GitHub, welcome to communicate."
+label="github-friends"
+[[groups]]
+name="Frequently Visited"
+description="Very useful websites worth bookmarking."
+label="frequently-visited"
+[[groups]]
+name="Developers"
+description="Awesome developers worth following."
+label="developers"
