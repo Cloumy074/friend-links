@@ -3,7 +3,7 @@ owner="Cloumy074"
 repository="friend-links"
 
 [generation]
-label="verified"
+label="active"
 sort_by_updated_time=true
 
 [[groups]]
@@ -11,14 +11,10 @@ name="Partner (Pinned)"
 description="Special place for special person."
 label="ta"
 [[groups]]
-name="GitHub"
-description="Friends from GitHub, welcome to communicate."
-label="github-friends"
-[[groups]]
 name="Frequently Visited"
 description="Very useful websites worth bookmarking."
 label="frequently-visited"
 [[groups]]
-name="Developers"
-description="Awesome developers worth following."
-label="developers"
+name="Friends"
+description="Some of my friends! Might would like to take a look?"
+label="friends"
