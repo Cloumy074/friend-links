@@ -8,5 +8,5 @@ sort_by_updated_time=true
 
 [[groups]]
 name="GitHub"
-description=""Some friends from GitHub! Might would like to take a look?"
+description="Some friends from GitHub! Might would like to take a look?"
 label="github"
